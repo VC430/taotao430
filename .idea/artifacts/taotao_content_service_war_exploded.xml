@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="taotao-content-service:war exploded">
-    <output-path>$PROJECT_DIR$/taotao-parent/taotao-content/taotao-content-service/target/taotao-content-service</output-path>
+    <output-path>$PROJECT_DIR$/taotao-content/taotao-content-service/target/taotao-content-service</output-path>
     <properties id="maven-jee-properties">
       <options>
         <exploded>true</exploded>
@@ -77,7 +77,7 @@
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/taotao-parent/taotao-content/taotao-content-service/target/taotao-content-service/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/taotao-content/taotao-content-service/target/taotao-content-service/META-INF/MANIFEST.MF" />
       </element>
       <element id="javaee-facet-resources" facet="taotao-content-service/web/Web" />
     </root>
