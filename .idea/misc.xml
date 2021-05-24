@@ -37,6 +37,11 @@
         <option value="$PROJECT_DIR$/taotao-manager/taotao-manager-interface/pom.xml" />
         <option value="$PROJECT_DIR$/taotao-manager/taotao-manager-pojo/pom.xml" />
         <option value="$PROJECT_DIR$/taotao-manager/taotao-manager-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../taotao4303/taotao-cart-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../taotao4303/taotao-order/pom.xml" />
+        <option value="$PROJECT_DIR$/../taotao4303/taotao-order-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../taotao4303/taotao-sso/pom.xml" />
+        <option value="$PROJECT_DIR$/../taotao4303/taotao-sso-web/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

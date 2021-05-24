@@ -11,16 +11,16 @@
         <module name="taotao-manager-interface" />
         <module name="taotao-order-service" />
         <module name="taotao-content-interface" />
-        <module name="taotao-cart-web" />
         <module name="taotao-search-web" />
         <module name="taotao-manager-service" />
+        <module name="taotao-cart-web" />
         <module name="taotao-search-service" />
         <module name="taotao-order-interface" />
         <module name="taotao-search-interface" />
         <module name="taotao-item-web" />
         <module name="taotao-manager-pojo" />
-        <module name="taotao-sso-web" />
         <module name="taotao-portal-web" />
+        <module name="taotao-sso-web" />
         <module name="taotao-order-web" />
         <module name="taotao-manager-web" />
         <module name="taotao-sso-interface" />
@@ -30,8 +30,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="GeneratorSqlmap" target="1.8" />
-      <module name="taoao-order" target="1.7" />
+      <module name="GeneratorSqlmap" target="1.5" />
       <module name="taotao-cart-web" target="1.7" />
       <module name="taotao-common" target="1.7" />
       <module name="taotao-content" target="1.7" />
