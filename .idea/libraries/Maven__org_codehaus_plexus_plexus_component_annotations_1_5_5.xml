@@ -1,13 +1,13 @@
 <component name="libraryTable">
-  <library name="Maven: org.codehaus.plexus:plexus-component-annotations:1.5.5">
+  <library name="Maven: com.github.sgroschupf:zkclient:0.1">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../Maven/taotao430/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Maven/taotao430/com/github/sgroschupf/zkclient/0.1/zkclient-0.1.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$PROJECT_DIR$/../../../Maven/taotao430/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Maven/taotao430/com/github/sgroschupf/zkclient/0.1/zkclient-0.1-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../../Maven/taotao430/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Maven/taotao430/com/github/sgroschupf/zkclient/0.1/zkclient-0.1-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
